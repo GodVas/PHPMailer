@@ -1,0 +1,5 @@
+name: Mailer
+author: alvin0319
+main: Mailer\Mailer
+version: 1.0.0
+api: 4.0.0
